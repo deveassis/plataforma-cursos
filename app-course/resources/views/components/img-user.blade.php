@@ -1,0 +1,1 @@
+<img src="{{asset('images/user.jpeg')}}" class="w-10 h-10 rounded-full m-2" alt="" srcset="">
