@@ -1,4 +1,5 @@
 # Plataforma de Cursos
+# PROJETO DE ESTUDO (Criei este projeto baseado nos aprendizados da faculdade, o objetivo é praticar arquitetura e cloud.
 
 Uma aplicação web de gerenciamento de cursos desenvolvida com **Laravel**, utilizando **Docker** para containerização e **MySQL** como banco de dados.
 
